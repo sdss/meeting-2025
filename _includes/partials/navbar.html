@@ -1,14 +1,14 @@
 <nav class="navbar navbar-expand-{{ site.conference.navigation.breakpoint | default: 'md' }} navbar-light bg-light mb-3">
-  <div class="container">
+  <div class="container-fluid">
 
-    <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.header_title }}</a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         {%- for link in site.conference.navigation.links -%}
 
           {%- if link.menu %}
@@ -82,11 +82,11 @@
     </div>
 
     {%- if site.conference.navigation.logo %}
-      <div class="navbar-brand navbar-logo mr-0 ml-1 text-right overflow-hidden">
+      <div class="navbar-brand navbar-logo ml-auto text-right overflow-hidden">
         <a href="{{ site.conference.navigation.logo.url }}">
           {%- if site.conference.navigation.logo.img %}
-            <img src="{{ site.conference.navigation.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="align-middle" alt="{{ site.conference.navigation.logo.name }}" />
-          {%- else %}
+            <img src="{{ '/assets/images/logo.png' | relative_url }}" class="align-middle" alt="{{ site.conference.navigation.logo.name }}" />
+            {%- else %}
             {{ site.conference.navigation.logo.name }}
           {%- endif %}
         </a>

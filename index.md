@@ -1,6 +1,21 @@
 ---
 layout: home
+announcements:
+  - title: "Registration Opens in January!"
+    date: "December 20, 2024"
+    text: "Registration for the 2025 SDSS-V Collaboration Meeting is now open. Make sure to secure your spot by **May 15, 2025**."
+  - title: "Heidelberg Venue Information"
+    date: "December 20, 2024"
+    text: "The meeting will be hosted at the Max Planck Institute for Astronomy (MPIA) in Heidelberg. More details on the venue [here](/location/)."
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies interdum lacus quis gravida. Vestibulum eget arcu in dui facilisis luctus. Curabitur rhoncus nibh non neque viverra facilisis. Nam nec placerat augue, ut mollis ante. Morbi pulvinar iaculis felis eget pretium. Duis euismod, risus non placerat accumsan, mi nisl euismod nibh, quis finibus ante mauris eu odio.
+Welcome to the SDSS-V Collaboration Meeting!  
 
-Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Maecenas dignissim augue nec sollicitudin sagittis. Donec sagittis dolor non tincidunt eleifend. Donec vel nibh et leo pretium dignissim. Nulla vehicula arcu velit, ac facilisis turpis fermentum ac. Integer at tempus sem, in vehicula magna. Ut tempor est nec nisl imperdiet porttitor sit amet maximus massa.
+The 2025 SDSS-V Collaboration Meeting will be held in Heidelberg, Germany, hosted by the Max Planck Institute for Astronomy (MPIA). This marks the first time in 10 years that the meeting returns to Europe, offering a unique opportunity to gather in one of Europe’s most historic and picturesque cities.
+
+The SDSS-V project continues its ambitious mission, encompassing three key projects — the Milky Way Mapper, the Local Volume Mapper, and the Black Hole Mapper. Together, these projects are on track to observe nearly 6 million stars in the Milky Way and satellite galaxies, 400,000 black holes and galaxy clusters, and 3,000 square degrees of the ionized interstellar medium from the Apache Point Observatory (APO) and the Las Campanas Observatory (LCO).
+
+With the next public data release scheduled for Summer 2025, this year’s meeting will be especially timely. The focus will be on the latest SDSS-V science results, project status updates, and tutorials. The meeting will feature a mix of plenary sessions, splinter discussions, and workshops designed to facilitate collaboration and highlight ongoing and future work.
+
+Join us in Heidelberg for an exciting week of discovery, discussion, and collaboration in the vibrant SDSS-V community!
+
+

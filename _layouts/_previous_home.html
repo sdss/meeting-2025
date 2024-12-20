@@ -11,7 +11,6 @@ layout: default
   </div>
 </div>
 
-{% comment %}
 <div class="white-section py-4">
   <div class="container">
     <hr class="my-4">
@@ -24,56 +23,15 @@ layout: default
     <p>Additional information goes here.</p>
   </div>
 </div>
-{% endcomment %}
 
-{{ content }}
 
-<div class="soc-loc-section py-4">
-  <div class="container">
-    <h2 class="text-center mb-4">Organising Committees</h2>
-    <div class="row">
-      <div class="col-md-6">
-        <h4>Scientific Organising Committee (SOC)</h4>
-        <ul>
-          <li>Emily Griffiths (UCB) - Chair </li>
-          <li>Keith Hawkins (UT Austin)</li>
-          <li>Jaime Villaseñor (MPIA) - SOC/LOC Liaison</li>
-          <li>Johnthan Tan (UVA)</li>
-          <li>Andrea Merloni (MPE)</li>
-          <li>Patricia Arevalo (UV)</li>
-          <li>Zheng Zheng (NAOC)</li>
-          <li>Xiang-xiang Xue (NAOC)</li>
-        </ul>
-      </div>
-      <div class="col-md-6">
-        <h4>Local Organising Committee (LOC)</h4>
-        <ul>
-          <li>Jaime Villaseñor (MPIA)</li>
-          <li>Hans-Walter Rix (MPIA)</li>
-          <li>Susanne Koltes-Al-Zoubi (MPIA)</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
+  {{ content }}
 
-<div class="announcements-section py-4">
-  <div class="container">
-    <h2 class="text-center mb-4">Announcements</h2>
-    <div class="announcements-list">
-      {% for announcement in page.announcements %}
-        <div class="announcement mb-3">
-          <h4 class="announcement-title">{{ announcement.title }}</h4>
-          <p class="announcement-date text-muted">{{ announcement.date }}</p>
-          <p class="announcement-text">{{ announcement.text | markdownify }}</p>
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
-{% if site.conference.main.links %}
-  <div class="lead d-print-none">
+  <!-- Static Image -->
+  <img src="{{ '/assets/images/heidelberg_img.jpeg' | relative_url }}" class="img-fluid my-4" alt="Heidelberg Image">
+  
+  {% if site.conference.main.links %}
+    <div class="lead d-print-none">
     {% assign btn_default = 'btn btn-outline-primary btn-lg mt-2 ml-1' %}
     {% for link in site.conference.main.links %}
 

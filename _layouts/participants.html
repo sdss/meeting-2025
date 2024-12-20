@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% if page.title -%}
+<h1 class="display-5 mb-3 text-break">{{ page.title }}</h1>
+{%- else -%}
+<h1 class="display-5 mb-3 text-break">Participants</h1>
+{%- endif %}
+
+<div class="table-responsive">
+<table class="table table-striped">
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Affiliation</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% assign sorted_participants = site.data.participants | sort: "Last Name" %}
+    {% for participant in sorted_participants %}
+    <tr>
+        <td>{{ participant["First Name"] }} {{ participant["Last Name"] }}</td>
+        <td>{{ participant["Affiliation"] }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>

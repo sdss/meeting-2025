@@ -1,0 +1,242 @@
+/* Hero Section */
+.hero-section {
+    position: relative;
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    /* background: red; */
+    background: url('/assets/images/heidelberg_img.jpeg') no-repeat center center;
+    /* background: url('{{ "/assets/images/heidelberg_img.jpeg" | relative_url }}') no-repeat center center; */
+    background-size: cover; 
+}
+
+/* Full-Width Image */
+.hero-image {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 8rem;     // Add spacing below the image
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+
+/* Overlay Text */
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 90%; // Allows text to fit on smaller screens
+  white-space: nowrap; 
+  color: #EEE8AA;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+  text-align: center;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.5); // Dark overlay
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+// Target the heading inside the overlay for responsive font sizes
+.overlay-text h1 {
+  font-size: 3rem; // Default large size for desktops
+}
+
+@media (max-width: 992px) {
+  .overlay-text h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .overlay-text h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .overlay-text h1 {
+    font-size: 1.75rem;
+  }
+}
+
+.overlay-text p.lead {
+  font-size: 1.25rem; // default size for larger screens
+  margin-top: 0.5rem; // optional: add some spacing if needed
+}
+
+// Reduce on smaller screens
+@media (max-width: 768px) {
+  .overlay-text p.lead {
+    font-size: 1.125rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .overlay-text p.lead {
+    font-size: 1rem;
+  }
+}
+
+
+/* Optional: Style for the header */
+/* header {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+} */
+
+.navbar-logo img {
+  height: 50px;
+  width: auto;
+}
+
+.soc-loc-section {
+
+    background-color: #fff3cd6e;
+    padding: 2rem 0;
+    // border: 1px solid #fdf2ac;
+    // border-radius: 0.5rem;
+    // box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  
+    h2 {
+      color: #333; // Darker color for the section title
+    }
+  
+    h3 {
+      color: #555; // Slightly lighter color for subsection titles
+      margin-bottom: 1rem;
+    }
+  
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+  
+      li {
+        padding: 0.25rem 0;
+      }
+    }
+  }
+  
+  .announcements-section {
+    // background-color: #fff3cd; // Light yellow background (can be customized)
+    padding: 2rem 0;
+    // border-top: 1px solid #ffc107; // Optional border for a subtle separation
+    // border-radius: 0.5rem;
+  
+    h2 {
+      color: #333;
+    }
+  
+    .announcements-list {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+  
+    .announcement {
+      background-color: #ffffff;
+      padding: 1rem;
+      border-left: 4px solid #ffc107; // Highlight border on the left
+      border-radius: 0.25rem;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  
+      h4.announcement-title {
+        margin: 0 0 0.5rem;
+        color: #856404;
+      }
+  
+      p.announcement-text {
+        margin: 0;
+        color: #555;
+      }
+  
+      a {
+        color: #007bff;
+        text-decoration: underline;
+  
+        &:hover {
+          text-decoration: none;
+        }
+      }
+    }
+
+    .announcement-date {
+        font-size: 0.9rem;
+        color: #6c757d; // Muted gray color
+        margin-bottom: 0.5rem; // Spacing between date and text
+      }
+      
+  }
+
+  .table-responsive {
+    margin-top: 2rem;
+  }
+  
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+  }
+  
+  .thead-dark th {
+    background-color: #343a40;
+    color: #fff;
+  }
+
+  .location-map {
+    height: 500px;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .venue-details {
+    margin-top: 2rem;
+  }
+  
+  .venue-details h2 {
+    margin-bottom: 1rem;
+    color: #333;
+  }
+
+  .venue-page h2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .venue-page h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    text-decoration: underline
+  }
+
+  .venue-image {
+    width: 100%;             // Make the container take full width
+    margin-bottom: 2rem;     // Add spacing below the image
+  
+    img {
+      width: 100%;           // Make the image take full width of its container
+      max-height: 500px;     // Limit the height to a reasonable size (adjust as needed)
+      object-fit: cover;     // Ensure the image covers the container without distortion
+      border-radius: 0.5rem; // Optional: Add rounded corners
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); // Optional: Add a subtle shadow
+    }
+  }
+
+  a {
+    color: rgb(75, 191, 179);
+    // text-decoration: underline;
+  }
+
+  .visa-warning {
+    background-color: #fff3cd;  // Light yellow background
+    border-left: 5px solid #ffcc00;  // Yellow border for emphasis
+    padding: 1rem;
+    margin: 1.5rem 0;
+    // font-weight: bold;
+    color: #856404;  // Dark yellow/brown text
+  }

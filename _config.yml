@@ -1,7 +1,7 @@
-title: Conference 2020
-preposition: ''
+title: SDSS-V Collaboration Meeting
+header_title: "SDSS-V Collaboration Meeting 2025"   # Used in the header/navbar
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  June 2-6 2025, Heidelberg, Germany
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -54,7 +54,7 @@ defaults:
 # Theme default values
 conference:
   lang: en
-  show_errors: True
+  show_errors: true
 
   link_preview:
     disable: false
@@ -70,3 +70,30 @@ conference:
     url: '/program'
     time_steps: 15
     show_alltimes: true
+    ready: false  # Set to true when the programme is ready
+
+  talks:
+    main_categories:
+      - MWM
+      - BHM
+      - LVM
+
+  navigation:
+    logo:
+      url: "/"
+      img: "logo.png"
+      name: "My Logo"
+    links:
+      - name: "Programme"
+        relative_url: "/program"
+      - name: "List of participants"
+        relative_url: "/participants"
+      - name: "Venue"
+        relative_url: "/location"
+      - name: "Code of conduct"
+        relative_url: "/code-of-conduct"
+      - name: "COINS Info"
+        relative_url: "/coins-info"
+      - name: "Registration"
+        relative_url: "/registration"
+    breakpoint: lg
