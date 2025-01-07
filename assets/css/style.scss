@@ -38,7 +38,7 @@ margin-bottom: 0rem; // Space between list items
     align-items: center;
     overflow: hidden;
     // background: red; 
-    background: url('/assets/images/heidelberg_img.jpeg') no-repeat center center;
+    background: baseurl('/assets/images/heidelberg_img.jpeg') no-repeat center center;
     /* background: url('{{ "/assets/images/heidelberg_img.jpeg" | relative_url }}') no-repeat center center; */
     background-size: cover; 
     margin-bottom: 2rem !important;
