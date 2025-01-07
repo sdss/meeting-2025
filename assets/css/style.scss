@@ -1,3 +1,33 @@
+body {
+    line-height: 1.6 !important; // Adjust for better readability
+    margin: 0rem !important;
+    padding: 1rem !important;
+}
+
+p {
+margin-bottom: 1rem !important; // Adds space between paragraphs
+}
+
+h1, h2, h3, h4, h5, h6 {
+margin-top: 0rem !important;
+margin-bottom: 1rem !important;
+}
+
+body a {
+color: rgb(75, 191, 179);
+// text-decoration: underline;
+}
+
+ul, ol {
+    margin-left: 2rem; // Indent lists globally
+    padding-left: 1rem;
+    margin-bottom: 1rem !important;
+}
+
+li {
+margin-bottom: 0rem; // Space between list items
+}
+
 /* Hero Section */
 .hero-section {
     position: relative;
@@ -7,17 +37,18 @@
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    /* background: red; */
+    // background: red; 
     background: url('/assets/images/heidelberg_img.jpeg') no-repeat center center;
     /* background: url('{{ "/assets/images/heidelberg_img.jpeg" | relative_url }}') no-repeat center center; */
     background-size: cover; 
+    margin-bottom: 2rem !important;
 }
 
 /* Full-Width Image */
 .hero-image {
   width: 100%;
   height: 100%;
-  margin-bottom: 8rem;     // Add spacing below the image
+  margin-bottom: 2rem;     // Add spacing below the image
   object-fit: cover;
   position: absolute;
   top: 0;
@@ -68,6 +99,7 @@
 .overlay-text p.lead {
   font-size: 1.25rem; // default size for larger screens
   margin-top: 0.5rem; // optional: add some spacing if needed
+  color: #EEE8AA;
 }
 
 // Reduce on smaller screens
@@ -109,9 +141,10 @@
       color: #333; // Darker color for the section title
     }
   
-    h3 {
+    h3, h4 {
       color: #555; // Slightly lighter color for subsection titles
-      margin-bottom: 1rem;
+      //margin-bottom: 0rem;
+      //padding: 1rem;
     }
   
     ul {
@@ -124,119 +157,114 @@
     }
   }
   
-  .announcements-section {
-    // background-color: #fff3cd; // Light yellow background (can be customized)
-    padding: 2rem 0;
-    // border-top: 1px solid #ffc107; // Optional border for a subtle separation
-    // border-radius: 0.5rem;
-  
-    h2 {
-      color: #333;
-    }
-  
-    .announcements-list {
-      max-width: 800px;
-      margin: 0 auto;
-    }
-  
-    .announcement {
-      background-color: #ffffff;
-      padding: 1rem;
-      border-left: 4px solid #ffc107; // Highlight border on the left
-      border-radius: 0.25rem;
-      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
-  
-      h4.announcement-title {
-        margin: 0 0 0.5rem;
-        color: #856404;
-      }
-  
-      p.announcement-text {
-        margin: 0;
-        color: #555;
-      }
-  
-      a {
-        color: #007bff;
-        text-decoration: underline;
-  
-        &:hover {
-          text-decoration: none;
-        }
-      }
-    }
+.announcements-section {
+// background-color: #fff3cd; // Light yellow background (can be customized)
+padding: 2rem 0;
+// border-top: 1px solid #ffc107; // Optional border for a subtle separation
+// border-radius: 0.5rem;
 
-    .announcement-date {
-        font-size: 0.9rem;
-        color: #6c757d; // Muted gray color
-        margin-bottom: 0.5rem; // Spacing between date and text
-      }
-      
-  }
-
-  .table-responsive {
-    margin-top: 2rem;
-  }
-  
-  .table-striped tbody tr:nth-of-type(odd) {
-    background-color: #f9f9f9;
-  }
-  
-  .thead-dark th {
-    background-color: #343a40;
-    color: #fff;
-  }
-
-  .location-map {
-    height: 500px;
-    border: 1px solid #ccc;
-    border-radius: 0.5rem;
-    margin-bottom: 2rem;
-  }
-  
-  .venue-details {
-    margin-top: 2rem;
-  }
-  
-  .venue-details h2 {
-    margin-bottom: 1rem;
+h2 {
     color: #333;
-  }
+}
 
-  .venue-page h2 {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-  }
+.announcements-list {
+    max-width: 800px;
+    margin: 0 auto;
+}
 
-  .venue-page h3 {
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
-    text-decoration: underline
-  }
-
-  .venue-image {
-    width: 100%;             // Make the container take full width
-    margin-bottom: 2rem;     // Add spacing below the image
-  
-    img {
-      width: 100%;           // Make the image take full width of its container
-      max-height: 500px;     // Limit the height to a reasonable size (adjust as needed)
-      object-fit: cover;     // Ensure the image covers the container without distortion
-      border-radius: 0.5rem; // Optional: Add rounded corners
-      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); // Optional: Add a subtle shadow
-    }
-  }
-
-  a {
-    color: rgb(75, 191, 179);
-    // text-decoration: underline;
-  }
-
-  .visa-warning {
-    background-color: #fff3cd;  // Light yellow background
-    border-left: 5px solid #ffcc00;  // Yellow border for emphasis
+.announcement {
+    background-color: #ffffff;
     padding: 1rem;
-    margin: 1.5rem 0;
-    // font-weight: bold;
-    color: #856404;  // Dark yellow/brown text
-  }
+    border-left: 4px solid #ffc107; // Highlight border on the left
+    border-radius: 0.25rem;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+
+    h4.announcement-title {
+    margin: 0 0 0.5rem;
+    color: #856404;
+    }
+
+    p.announcement-text {
+    margin: 0;
+    color: #555;
+    }
+
+    a {
+    color: #007bff;
+    text-decoration: underline;
+
+    &:hover {
+        text-decoration: none;
+    }
+    }
+}
+
+.announcement-date {
+    font-size: 0.9rem;
+    color: #6c757d; // Muted gray color
+    margin-bottom: 0.5rem; // Spacing between date and text
+    }
+    
+}
+
+.table-responsive {
+margin-top: 2rem;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+background-color: #f9f9f9;
+}
+
+.thead-dark th {
+background-color: #343a40;
+color: #fff;
+}
+
+.location-map {
+height: 500px;
+border: 1px solid #ccc;
+border-radius: 0.5rem;
+margin-bottom: 2rem;
+}
+
+.venue-details {
+margin-top: 2rem;
+}
+
+.venue-details h2 {
+margin-bottom: 1rem;
+color: #333;
+}
+
+.venue-page h2 {
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+
+.venue-page h3 {
+margin-top: 1.5rem;
+margin-bottom: 1.5rem;
+text-decoration: underline
+}
+
+.venue-image {
+width: 100%;             // Make the container take full width
+margin-bottom: 2rem;     // Add spacing below the image
+
+img {
+    width: 100%;           // Make the image take full width of its container
+    max-height: 500px;     // Limit the height to a reasonable size (adjust as needed)
+    object-fit: cover;     // Ensure the image covers the container without distortion
+    border-radius: 0.5rem; // Optional: Add rounded corners
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); // Optional: Add a subtle shadow
+}
+}
+
+.visa-warning {
+background-color: #fff3cd;  // Light yellow background
+border-left: 5px solid #ffcc00;  // Yellow border for emphasis
+padding: 1rem;
+margin: 1.5rem 0;
+// font-weight: bold;
+color: #856404;  // Dark yellow/brown text
+}

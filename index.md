@@ -8,7 +8,8 @@ announcements:
     date: "December 20, 2024"
     text: "The meeting will be hosted at the Max Planck Institute for Astronomy (MPIA) in Heidelberg. More details on the venue [here](/location/)."
 ---
-Welcome to the SDSS-V Collaboration Meeting!  
+
+### Welcome to the SDSS-V Collaboration Meeting!  
 
 The 2025 SDSS-V Collaboration Meeting will be held in Heidelberg, Germany, hosted by the Max Planck Institute for Astronomy (MPIA). This marks the first time in 10 years that the meeting returns to Europe, offering a unique opportunity to gather in one of Europe’s most historic and picturesque cities.
 
