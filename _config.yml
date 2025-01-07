@@ -2,8 +2,8 @@ title: SDSS-V Collaboration Meeting
 header_title: "SDSS-V Collaboration Meeting 2025"   # Used in the header/navbar
 description: >-
   June 2-6 2025, Heidelberg, Germany
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/sdss-2025-test" # the subpath of your site, e.g. /blog
+url: "https://jvillasr.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
