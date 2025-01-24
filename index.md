@@ -2,11 +2,11 @@
 layout: home
 announcements:
   - title: "Registration Opens in January!"
-    date: "December 20, 2024"
-    text: "Registration for the 2025 SDSS-V Collaboration Meeting is now open. Make sure to secure your spot by **May 15, 2025**."
+    date: "January 24, 2025"
+    text: "Registration for the 2025 SDSS-V Collaboration Meeting opens on January 31. Make sure to secure your spot by **April 30, 2025**."
   - title: "Heidelberg Venue Information"
-    date: "December 20, 2024"
-    text: "The meeting will be hosted at the Max Planck Institute for Astronomy (MPIA) in Heidelberg. More details on the venue [here](/location/)."
+    date: "January 24, 2025"
+    text: "The meeting will be hosted at the Max Planck Institute for Astronomy (MPIA) in Heidelberg. More details on the venue [here]({{ site.baseurl }}/location)."
 ---
 
 ### Welcome to the SDSS-V Collaboration Meeting!  
