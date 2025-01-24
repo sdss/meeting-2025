@@ -34,7 +34,7 @@ Payment details and instructions will be provided once registration opens.
 ### Additional Information
 
 - **Travel Grants:** Limited travel grants may be available for early-career researchers and students. More details will be provided soon.  
-- **Accommodation Options:** We will provide recommendations for nearby hotels and other accommodation options [here]({{ site.baseurl }}/accommodation).  
+- **Accommodation Options:** We will provide recommendations for nearby hotels and other accommodation options [here]({{ site.baseurl }}/local-info).  
 - **Visa Support:** If you require an invitation letter for visa purposes, you can request it during registration. Visit [Visa Information]({{ site.baseurl }}/visa) to check if you need a visa.
 <div class="visa-warning">
   <strong>Important:</strong> Visa processing times can vary. We recommend applying at least <strong>two months in advance</strong> of the conference dates.
