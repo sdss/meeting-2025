@@ -11,7 +11,7 @@ The 2025 SDSS-V Collaboration Meeting will be held at the **Max Planck Institute
   <strong>Important:</strong> Visa processing times can vary. We recommend applying at least <strong>two months in advance</strong> of the conference dates.
 </div>
 
-Visit [Visa Information](/visa) to check if you need a visa.
+Visit [Visa Information]({{ site.baseurl }}/visa) to check if you need a visa.
 
 <div class="venue-image">
   <img src="{{ '/assets/images/mpia.jpeg' | relative_url }}" alt="Venue Image" class="img-fluid mb-4">
