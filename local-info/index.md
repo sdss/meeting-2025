@@ -14,6 +14,7 @@ Discover the best places to stay, eat, and explore in our beautiful city.
 - **[Premier Inn Heidelberg City Bahnstadt](https://www.premierinn.com/gb/en/home.html)**
 - **[Premier Inn Heidelberg City](https://www.premierinn.com/gb/en/home.html)**
 - **[Hotelo](https://hotelo-heidelberg.de/en/)**
+
 ### Close to the City Center (historic center, "Altstadt"):
 - **[GuestHouse Heidelberg](http://www.guesthouse-hd.de/ghouse/website.nsf/index.html?openpage&L=2)**
 - **[Hotel Mille Stelle](https://www.millestelle.de/en/home/)**

@@ -268,3 +268,25 @@ margin: 1.5rem 0;
 // font-weight: bold;
 color: #856404;  // Dark yellow/brown text
 }
+
+.footer-section {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  border-top: 1px solid #e9ecef;
+}
+
+.footer-section a {
+  color: #007bff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer-section a:hover {
+  text-decoration: underline;
+}
+
+.footer-section p {
+  margin: 0;
+  font-size: 14px;
+  color: #6c757d;
+}
