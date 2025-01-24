@@ -115,6 +115,14 @@ margin-bottom: 0rem; // Space between list items
   }
 }
 
+@media (max-width: 320px) {
+  .overlay-text h1 {
+    font-size: 1.5rem; // Even smaller for extremely narrow widths
+  }
+  .overlay-text p.lead {
+    font-size: 0.875rem; // Reduce supporting text size
+  }
+}
 
 /* Optional: Style for the header */
 /* header {
