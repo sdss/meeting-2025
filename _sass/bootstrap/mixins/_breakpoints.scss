@@ -121,3 +121,19 @@
     }
   }
 }
+
+// New breakpoints to deal with the extra small and extra extra small sizes
+@include media-breakpoint-down(xs) {
+  // Applies to xxs (0-319px) and xs (320-575.98px)
+}
+
+@include media-breakpoint-only(xxs) {
+  // Applies only to xxs (0-319px)
+  body {
+    font-size: 12px;
+  }
+}
+
+@include media-breakpoint-up(xs) {
+  // Applies to xs (320px) and wider
+}
