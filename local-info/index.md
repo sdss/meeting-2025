@@ -5,7 +5,7 @@ title: Local Information
 
 # Welcome to Heidelberg!
 
-Discover the best places to stay, eat, and explore in this beautiful city.
+Discover the best places to stay, eat, and explore in our beautiful city.
 
 ## 🏨 Hotels
 ### Close to the train station (Bahnstadt):
@@ -26,6 +26,11 @@ Discover the best places to stay, eat, and explore in this beautiful city.
 - **[Hotel am Schloss](https://www.hotels-in-heidelberg.de/en/)**
 
 ## 🍽️ Restaurants
+### German Cuisine:
+- **[Essighaus](#)**: A traditional German restaurant known for its hearty meals and cozy atmosphere.
+- **[Palmbräu Gasse](#)**: Enjoy classic German dishes and a great selection of local beers.
+- **[Weißer Stein](#)**: A favorite spot for authentic German cuisine with a beautiful outdoor seating area.
+
 <!--
 - **[Restaurant A](#)**: Enjoy gourmet dining with a menu that changes seasonally.
 - **[Restaurant B](#)**: A local favorite for traditional German cuisine.
@@ -43,6 +48,7 @@ Discover the best places to stay, eat, and explore in this beautiful city.
 
 
 ## 🎉 Special Events
+- Check again closer to the Meeting 😉
 <!--
 - **Heidelberg Spring Festival**: Celebrate the arrival of spring with local music, food, and festivities.
 - **Christmas Market**: Experience the magic of Heidelberg’s Christmas Market with its festive stalls and decorations.
