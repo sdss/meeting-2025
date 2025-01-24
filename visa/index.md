@@ -19,7 +19,7 @@ If you need a visa, please visit the
 
 ### Invitation Letters
 
-If you need an invitation letter for your visa application, please request it during registration or contact the **Organizing Committee** at [registration@example.com](mailto:registration@example.com).
+If you need an invitation letter for your visa application, please request it during registration or contact Jaime Villaseñor by [email](mailto:villasenor@mpia.de).
 
 <div class="visa-warning">
   <strong>Important:</strong> Visa processing times can vary. We recommend applying at least <strong>two months in advance</strong> of the conference dates.
