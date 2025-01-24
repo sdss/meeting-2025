@@ -7,39 +7,7 @@ title: COINS Info
 
 ## COINS – Committee on Inclusiveness in SDSS
 
-The **Committee on Inclusiveness in SDSS (COINS)** is dedicated to fostering an inclusive, diverse, and equitable environment within the SDSS-V collaboration. Our mission is to evaluate the project's climate and demographics, recommend policies to enhance inclusivity, and support the implementation of these initiatives.
-
-COINS strives to make resources promoting inclusivity widely accessible and provides tools to ensure a collaborative environment where everyone can thrive.
-
----
-
-### **Our Core Principles**
-
-- **Diversity**: Embracing a broad range of backgrounds, experiences, and identities.
-- **Inclusion**: Ensuring individuals from marginalized groups feel welcomed and supported.
-- **Equality**: Offering the same opportunities to everyone.
-- **Equity**: Providing tailored support to meet different needs and ensure success for all.
-
----
-
-### **Key Initiatives**
-
-- **Leadership Diversity**: Promoting diverse representation in collaboration leadership roles.
-- **Climate Assessments**: Regularly evaluating the collaboration's environment to ensure it encourages participation and leadership from early-career scientists and underrepresented groups.
-- **Demographic Surveys**: Collecting and analyzing data on collaboration demographics to inform policies and track progress.
-
----
-
-### **Activities and Engagement**
-
-COINS hosts and supports various activities to enhance inclusivity during collaboration meetings:
-
-- **New Member Engagement**: Activities like speed geeking, new member breakfasts, and mentorship programs (e.g., FAST buddies).
-- **Inclusive Training**: Facilitating bystander intervention and inclusive leadership workshops.
-- **Community Events**: Organizing social activities such as bingo, receptions, and group discussions.
-
-To foster a sense of belonging, COINS organizes a variety of activities and training sessions:
-
+The [**Committee On INclusiveness in SDSS (COINS)**](https://sdss-wiki.atlassian.net/wiki/spaces/COINS/overview) was formed to address issues having to do with diversity, inclusion, and equality in the survey. Our broad goals are to assess the SDSS project and collaboration’s climate and demographics, to recommend to the collaboration management new policies or practices with regard to increasing inclusiveness, and to assist in the implementation of these new activities where necessary. We publicize our findings to the collaboration and ensure that resources that promote inclusivity are widely accessible. We aim to provide the collaboration tools to improve the climate of equity and inclusion.
 
 ---
 
@@ -47,30 +15,20 @@ To foster a sense of belonging, COINS organizes a variety of activities and trai
 
 COINS has developed practical guides to encourage inclusive practices within the collaboration. These documents are available as resources for all members:
 
-- [**Best Practices for an Inclusive Environment**](https://example.com/best-practices)  
+- [**Best Practices for an Inclusive Environment**](https://github.com/sdss/coins/blob/main/documents/pdf/best_practices.pdf)  
   Recommendations for fostering inclusivity, complementing the SDSS Code of Conduct.
 
-- [**Meeting Accessibility Guidelines**](https://example.com/meeting-accessibility)  
+- [**Meeting Accessibility Guidelines**](https://github.com/sdss/coins/blob/main/documents/pdf/meeting_accessibility.pdf)  
   Tips for making meetings accessible for all participants, covering venue, organizers, and attendees.
 
-- [**Chairing Guidelines**](https://example.com/chairing-guidelines)  
+- [**Chairing Guidelines**](https://github.com/sdss/coins/blob/main/documents/pdf/chairing_guidelines.pdf)  
   Guidance for session chairs to facilitate inclusive and accessible meetings.
 
-- [**Telecon Recommendations**](https://example.com/telecon-recommendations)  
-  Best practices for inclusive teleconferences, including FAQs.
-
-- [**Virtual Chairing Guidelines**](https://example.com/virtual-chairing)  
-  Instructions for effectively chairing virtual meetings to ensure inclusivity.
-
-- [**Guide to Conflict Resolution**](https://example.com/conflict-resolution)  
+- [**Guide to Conflict Resolution**](https://github.com/sdss/coins/blob/main/documents/pdf/conflict_resolution.pdf)  
   Strategies and guidelines for resolving conflicts within the collaboration.
-
-For more resources and the latest updates, visit the [**COINS Document Repository**](https://example.com/coins-repo).
 
 ---
 
 ### **Get Involved**
 
-We welcome feedback and participation from all members. If you have questions or suggestions, please reach out to the **COINS team** via [email](mailto:coins@example.com).
-
-Together, we can build a more inclusive and supportive community within SDSS-V!
+We welcome feedback and participation from all members. If you have questions or suggestions, please reach out to the **COINS team** via [email](mailto:coins@sdss.org).
