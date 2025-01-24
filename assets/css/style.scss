@@ -74,27 +74,27 @@ margin-bottom: 0rem; // Space between list items
 }
 
 // Target the heading inside the overlay for responsive font sizes
-// .overlay-text h1 {
-//   font-size: 3rem; // Default large size for desktops
-// }
+.overlay-text h1 {
+  font-size: 3rem; // Default large size for desktops
+}
 
-// @media (max-width: 992px) {
-//   .overlay-text h1 {
-//     font-size: 2.5rem;
-//   }
-// }
+@media (max-width: 992px) {
+  .overlay-text h1 {
+    font-size: 2.5rem;
+  }
+}
 
-// @media (max-width: 768px) {
-//   .overlay-text h1 {
-//     font-size: 2rem;
-//   }
-// }
+@media (max-width: 768px) {
+  .overlay-text h1 {
+    font-size: 2.25rem;
+  }
+}
 
-// @media (max-width: 576px) {
-//   .overlay-text h1 {
-//     font-size: 1.75rem;
-//   }
-// }
+@media (max-width: 576px) {
+  .overlay-text h1 {
+    font-size: 2rem;
+  }
+}
 
 .overlay-text p.lead {
   font-size: 1.25rem; // default size for larger screens
@@ -111,7 +111,7 @@ margin-bottom: 0rem; // Space between list items
 
 @media (max-width: 576px) {
   .overlay-text p.lead {
-    font-size: 1rem;
+    font-size: 1.125rem;
   }
 }
 
