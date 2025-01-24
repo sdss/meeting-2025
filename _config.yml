@@ -80,7 +80,7 @@ conference:
 
   navigation:
     logo:
-      url: "/"
+      url: "https://www.sdss.org"
       img: "logo.png"
       name: "My Logo"
     links:
