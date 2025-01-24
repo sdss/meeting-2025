@@ -33,11 +33,14 @@ Discover the best places to stay, eat, and explore in this beautiful city.
 -->
 
 ## 🌟 Things to Do in Heidelberg
-- **Heidelberg Castle**: Take a guided tour of this iconic landmark and enjoy breathtaking views of the city.
+- **Heidelberg Castle**: Take a guided tour of this iconic landmark and enjoy breathtaking views of the city. While you're there, make sure you don't miss the **Apothecary Museum** located within the castle and the **Big Barrel (Großes Fass)**, the world’s largest wine barrel located in the castle cellar.
 - **Philosopher’s Walk**: Stroll along this scenic path and take in the beautiful landscapes.
 - **Old Bridge (Alte Brücke)**: Visit this historic bridge and learn about its fascinating history.
 - **Altstadt (Old Town)**: Explore the charming streets filled with cafés, shops, and historic buildings.
 - **Student Jail (Studentenkarzer)**: Discover the quirky history of this old university jail.
+- **Walking up Heiligenberg**: Hike up Heiligenberg for panoramic views and explore the ancient ruins.
+- **Walking up Königstuhl**: Enjoy a hike up Königstuhl for stunning views and nature trails.
+
 
 ## 🎉 Special Events
 <!--
