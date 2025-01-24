@@ -85,7 +85,7 @@ conference:
       name: "My Logo"
     links:
       - name: "Home"
-        relative_url: "/home"    
+        relative_url: "/"    
       - name: "Programme"
         relative_url: "/program"
       - name: "List of participants"
