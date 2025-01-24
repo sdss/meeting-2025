@@ -50,9 +50,9 @@ Discover the best places to stay, eat, and explore in our beautiful city.
 
 ## 🎉 Special Events
 - Check again closer to the Meeting 😉
+
 <!--
 - **Heidelberg Spring Festival**: Celebrate the arrival of spring with local music, food, and festivities.
-- **Christmas Market**: Experience the magic of Heidelberg’s Christmas Market with its festive stalls and decorations.
 -->
 
 We hope you enjoy your stay in Heidelberg!
