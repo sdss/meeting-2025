@@ -69,7 +69,12 @@
             </li>
 
           {%- else %}
-            <li class="nav-item {% if page.url contains link.relative_url %}active{% endif %}">
+            <li class="nav-item 
+              <!-- {% if page.url contains link.relative_url %}active{% endif %}"> -->
+              {%- if page.url == site.baseurl | append: link.relative_url or
+                page.url == site.baseurl | append: link.relative_url | append: "/" or
+                page.url == site.baseurl | append: link.relative_url | append: "/index.html"
+              -%}active{%- endif -%}">              
               {%- assign link_styleclass = "nav-link" -%}
               {%- include partials/get_link.html -%}
               {{ link_tag }}
