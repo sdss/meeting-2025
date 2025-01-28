@@ -287,7 +287,7 @@ color: #856404;  // Dark yellow/brown text
 .footer-section a {
   color: #007bff;
   text-decoration: none;
-  margin: 0 10px;
+  // margin: 0 10px;
 }
 
 .footer-section a:hover {
@@ -301,12 +301,8 @@ color: #856404;  // Dark yellow/brown text
   color: #d3dae0;
 }
 
-.footer-section p a {
-  margin: 0; /* remove margin for paragraph links */
-}
-
-.footer-section a.icon-svg {
-  margin: 0 10px;
+.footer-section a.social-icon {
+  margin: 0 10px; /* spacing around icon links */
 }
 
 .icon-svg {
