@@ -44,6 +44,8 @@ Once you register, you can pay through the link below. You will be redirected to
 
 [Click here to pay now](#) if you’ve already registered.
 
+--
+
 ### Additional Information
 
 - **Travel Grants:** Limited travel grants may be available for early-career researchers and students. More details will be provided soon.  
