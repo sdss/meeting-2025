@@ -297,12 +297,14 @@ color: #856404;  // Dark yellow/brown text
 .footer-section p {
   margin: 0;
   font-size: 14px;
-  color: #6c757d;
+  // color: #6c757d;
+  color: #d3dae0;
 }
 
 .icon-svg {
   fill: currentColor;
   width: 1em;
   height: 1em;
-  vertical-align: middle;
+  // vertical-align: middle;
+  vertical-align: -0.125em;
 }
