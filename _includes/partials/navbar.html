@@ -69,11 +69,15 @@
             </li>
 
           {%- else %}
+
+            {% assign nav_url_no_slash = site.baseurl | append: link.relative_url %}
+            {% assign nav_url_slash = nav_url_no_slash | append: '/' %}
+            {% assign nav_url_index = nav_url_no_slash | append: '/index.html' %}
+          
             <li class="nav-item 
-              {%- if page.url == site.baseurl | append: link.relative_url or
-                     page.url == site.baseurl | append: link.relative_url | append: "/" or
-                     page.url == site.baseurl | append: link.relative_url | append: "/index.html"
-                  -%}active{%- endif -%}">              
+              {% if page.url == nav_url_no_slash or 
+                page.url == nav_url_slash or 
+                page.url == nav_url_index %}active{% endif %}">           
               {%- assign link_styleclass = "nav-link" -%}
               {%- include partials/get_link.html -%}
               {{ link_tag }}
