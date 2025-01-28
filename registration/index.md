@@ -12,6 +12,7 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
 
 - **Registration Fee:**  €185
 - **Registration deadline:** April 30, 2025
+  *(Payment must also be completed by this date.)*
 
 - **Abstract submission deadline:** March 7, 2025
 
@@ -22,16 +23,26 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
   - Conference dinner  
   - Optional shuttle service to and from the venue (MPIA/HdA)
 
-### Payment Methods
+### Register Now
 
+[Click here to register](#)  
+
+At the end of the registration process, you can choose to:  
+- Pay now via credit card  
+- Pay later with the option below.
+
+### Payment Information
+
+Once you register, you can pay through the link below. You will be redirected to our secure payment portal.
+
+**Accepted Payment Methods:**  
 - **Credit Card** (Visa, MasterCard, etc.)  
 
-Payment details and instructions will be provided once registration opens.
-
-### Cancellation Policy
-
+**Cancellation Policy**
 - **Full Refund:** If canceled by April 30, 2025  
 - **No Refund:** From May 1, 2025  
+
+[Click here to pay now](#) if you’ve already registered.
 
 ### Additional Information
 
@@ -48,4 +59,4 @@ Please check back here for updates or follow announcements via email or the conf
 
 ---
 
-If you have any questions, please contact the **Organizing Committee** by [email](mailto:villasenor@mpia.de).
+If you have any questions, please contact the **Organising Committee** by [email](mailto:villasenor@mpia.de).
