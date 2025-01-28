@@ -3,6 +3,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+_config.example.yml
 
 ### Bundler ###
 .bundle/
@@ -15,3 +16,8 @@ sdss-2025-test.code-workspace
 
 ### MacOS ###
 .DS_Store
+
+### Other files ###
+original_LICENSE.md
+original_README.md
+screenshot.png
