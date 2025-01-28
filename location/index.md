@@ -70,5 +70,5 @@ The nearest international airports are:
 Follow directions to **Königstuhl 17, Heidelberg**. Limited parking is available on-site.
 
 <div class="visa-warning">
-  <strong>Local information:</strong> For recommendations on hotels, restaurants and things to do in Heidelberg visit [this page]({{ site.baseurl }}/local-info) 
+  <strong>Local information:</strong> For recommendations on hotels, restaurants and things to do in Heidelberg visit <a href="{{ site.baseurl }}/local-info">this page</a>.
 </div>
