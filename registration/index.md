@@ -44,7 +44,7 @@ Once you register, you can pay through the link below. You will be redirected to
 
 [Click here to pay now](#) if you’ve already registered.
 
---
+---
 
 ### Additional Information
 
