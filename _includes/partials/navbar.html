@@ -70,27 +70,10 @@
 
           {%- else %}
 
-            {% assign nav_url_no_slash = site.baseurl | append: link.relative_url %}
-            {% assign nav_url_slash = nav_url_no_slash | append: '/' %}
-            {% assign nav_url_index = nav_url_no_slash | append: '/index.html' %}
-
-            <li>
-              <strong>DEBUG</strong>: page.url = "{{ page.url }}"
-            </li>
-            <li>
-              <strong>DEBUG</strong>: nav_url_no_slash = "{{ nav_url_no_slash }}"
-            </li>
-            <li>
-              <strong>DEBUG</strong>: nav_url_slash = "{{ nav_url_slash }}"
-            </li>
-            <li>
-              <strong>DEBUG</strong>: nav_url_index = "{{ nav_url_index }}"
-            </li>
-
             <li class="nav-item 
-              {% if page.url == nav_url_no_slash or 
-                page.url == nav_url_slash or 
-                page.url == nav_url_index %}active{% endif %}">           
+              {% if page.url == link.relative_url %}
+                active
+              {% endif %}">           
               {%- assign link_styleclass = "nav-link" -%}
               {%- include partials/get_link.html -%}
               {{ link_tag }}
