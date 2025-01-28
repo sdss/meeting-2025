@@ -10,7 +10,7 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
 - **Registration Opening Date:**  
   **January 31, 2025**
 
-- **Registration Fee:**  €180
+- **Registration Fee:**  €185
 - **Registration deadline:** April 30, 2025
 
 - **Abstract submission deadline:** March 7, 2025
