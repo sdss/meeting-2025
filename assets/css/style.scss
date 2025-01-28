@@ -301,6 +301,10 @@ color: #856404;  // Dark yellow/brown text
   color: #d3dae0;
 }
 
+.footer-section p a {
+  margin: 0; /* remove margin for paragraph links */
+}
+
 .icon-svg {
   fill: currentColor;
   width: 1em;
