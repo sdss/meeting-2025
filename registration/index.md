@@ -42,7 +42,7 @@ Once you register, you can pay through the link below. You will be redirected to
 - **Full Refund:** If canceled by April 30, 2025  
 - **No Refund:** From May 1, 2025  
 
-[Click here to pay now](#) if you’ve already registered.
+[Click here to pay now](https://ztix.de/hp/events/25675/info?lang=en) if you’ve already registered.
 
 ---
 
