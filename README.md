@@ -27,13 +27,16 @@ To run the website on your local machine:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/sdss/meeting-2025.git
-   cd meeting-2025```
+   cd meeting-2025
+   ```
 2. **Install Jekyll & dependencies:**
   ```bash
-  bundle install```
+  bundle install
+  ```
 3. **Run the development server:**
   ```bash
-  bundle exec jekyll serve```
+  bundle exec jekyll serve
+  ```
 
 The site will be available at http://localhost:4000/meeting-2025/.
 
@@ -43,7 +46,8 @@ We welcome contributions! If you'd like to make changes:
 
 1. Fork this repository and create a new branch:
   ```bash
-  git checkout -b feature/new-section```
+  git checkout -b feature/new-section
+  ```
 2. Make your edits (e.g., update content, fix issues).
 3. Submit a pull request describing your changes.
 
