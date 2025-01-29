@@ -27,9 +27,7 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
 
 [Click here to register](#)  
 
-At the end of the registration process, you can choose to:  
-- Pay now via credit card  
-- Pay later with the option below.
+**Help us plan the meeting!** We strongly encourage all participants to pay at the time of registration to simplify venue arrangements and ensure accurate numbers for catering and the conference dinner.
 
 ### Payment Information
 
@@ -42,7 +40,7 @@ Once you register, you can pay through the link below. You will be redirected to
 - **Full Refund:** If canceled by April 30, 2025  
 - **No Refund:** From May 1, 2025  
 
-[Click here to pay now](https://ztix.de/hp/events/25675/info?lang=en) if you’ve already registered ([German version](https://ztix.de/hp/events/25675/info)).
+[Click here to pay now](https://ztix.de/hp/events/25675/info?lang=en) ([German version](https://ztix.de/hp/events/25675/info)) and make sure to fill out the registration form.
 
 ---
 
