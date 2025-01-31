@@ -25,7 +25,7 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
 
 ### Register Now
 
-[Click here to register](#)  
+[Click here to register](https://cuboulder.qualtrics.com/jfe/form/SV_2aZFywfOZSikPvE)  
 
 **Help us plan the meeting!** We strongly encourage all participants to pay at the time of registration to simplify venue arrangements and ensure accurate numbers for catering and the conference dinner.
 
