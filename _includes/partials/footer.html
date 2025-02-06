@@ -3,12 +3,14 @@
 <footer class="footer-section py-4">
   <!-- 1) Use .container or .container-fluid to control width.
        If text is being cut in .container, try .container-fluid or remove default padding via .px-0 -->
-  <div class="container-fluid"> 
+  <!-- <div class="container-fluid">  -->
+  <div class="row align-items-center d-flex">
     <!-- 2) Single row that aligns items on one line -->
     <div class="row align-items-center">
       
       <!-- Left column: ERC text & logo -->
-      <div class="col-md-4 text-start">
+      <!-- <div class="col-md-4 text-start"> -->
+      <div class="col-md d-flex flex-column align-items-start flex-grow-1" style="max-width: 28%;">
         <!-- Your text -->
         <p class="mb-2">
           This workshop is supported by the ERC Advanced Grant No. 101054731.
@@ -23,7 +25,8 @@
       </div>
       
       <!-- Center column: Social icons & credits -->
-      <div class="col-md-4 text-center">
+      <!-- <div class="col-md-5 text-center"> -->
+      <div class="col-md d-flex flex-column align-items-center flex-grow-2">
         <!-- Social icons -->
         <p class="mb-2">
           <a href="https://bsky.app/profile/sdssurveys.bsky.social" class="social-icon" 
@@ -63,14 +66,15 @@
       </div>
 
       <!-- Right column: MPIA text & logo -->
-      <div class="col-md-4 d-flex flex-column align-items-end">
+      <!-- <div class="col-md-3 d-flex flex-column align-items-end"> -->
+      <div class="col-md d-flex flex-column align-items-end flex-grow-1" style="max-width: 28%;">
         <p class="mb-2">
           Hosted by the Max Planck Institute for Astronomy
         </p>
         <img
           src="{{ '/assets/images/MPIA_Logo.png' | relative_url }}"
           alt="{{ site.conference.footer.logo.name }}"
-          style="max-height: 130px; width: auto;"
+          style="max-height: 140px; width: auto;"
           class="img-fluid"
         >
       </div>
