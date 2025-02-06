@@ -1,46 +1,74 @@
 </main>
 
 <footer class="footer-section py-4">
-  <div class="container">
-    <!-- Use a row that vertically centers its columns -->
+  <!-- 1) Use .container or .container-fluid to control width.
+       If text is being cut in .container, try .container-fluid or remove default padding via .px-0 -->
+  <div class="container px-0"> 
+    <!-- 2) Single row that aligns items on one line -->
     <div class="row align-items-center">
       
-      <!-- Left column for logo and legend -->
-      <div class="col-md-6 d-flex flex-column align-items-start">
-        <!-- Legend or supporting text -->
+      <!-- Left column: ERC text & logo -->
+      <div class="col-md-4 text-start">
+        <!-- Your text -->
         <p class="mb-2">
           This workshop is supported by the ERC Advanced Grant No. 101054731.
         </p>
-        <!-- Logo (adjust height or remove inline style if you want it bigger) -->
+        <!-- Your logo (make it bigger by increasing max-height) -->
         <img
           src="{{ '/assets/images/LOGO_ERC-FLAG_FP.png' | relative_url }}"
           alt="{{ site.conference.footer.logo.name }}"
-          style="height: 60px;"
+          style="max-height: 100px; width: auto;"
           class="img-fluid"
         >
       </div>
       
-      <!-- Right column for social icons and credits -->
-      <div class="col-md-6 text-center">
+      <!-- Center column: Social icons & credits -->
+      <div class="col-md-4 text-center">
         <!-- Social icons -->
-        <p>
-          <a href="https://bsky.app/profile/sdssurveys.bsky.social" class="social-icon" target="_blank" title="Follow us on Bluesky">
-            <!-- Your Bluesky SVG here -->
+        <p class="mb-2">
+          <a href="https://bsky.app/profile/sdssurveys.bsky.social" class="social-icon" 
+             target="_blank" title="Follow us on Bluesky">
+            <!-- Re-include your Bluesky SVG icon -->
+            <svg
+              class="icon-svg"
+              xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" aria-hidden="true"
+              style="height: 1.2em; width: 1.2em; fill: currentColor;"
+            >
+              <path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2
+                       c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 
+                       304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9
+                       -2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 
+                       72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 
+                       68.2-53.4 110.3-21.8z"/>
+            </svg>
           </a>
           |
-          <a href="https://github.com/sdss" class="social-icon" target="_blank" title="Follow the SDSS GitHub">
+          <a href="https://github.com/sdss" class="social-icon" 
+             target="_blank" title="Follow the SDSS GitHub">
             <i class="fab fa-github"></i>
           </a>
           |
-          <a href="mailto:villasenor@mpia.de" class="social-icon" target="_blank" title="Contact us">
+          <a href="mailto:villasenor@mpia.de" class="social-icon" 
+             target="_blank" title="Contact us">
             <i class="fa fa-envelope"></i>
           </a>
         </p>
-        
         <!-- Credits -->
         <p class="mb-0">
           This website has been created by J. Villaseñor using Jekyll
-          (<a href="https://github.com/DigitaleGesellschaft/jekyll-theme-conference" target="_blank">Conference theme</a>).
+          (<a href="https://github.com/DigitaleGesellschaft/jekyll-theme-conference" target="_blank">
+            Conference theme
+          </a>).
+        </p>
+      </div>
+      
+      <!-- Right column: Hosting institution info -->
+      <div class="col-md-4 text-end">
+        <p class="mb-2">
+          Hosted by: <strong>Your Institution</strong>
+        </p>
+        <p class="mb-0">
+          Additional info about the hosting institution can go here.
         </p>
       </div>
       
