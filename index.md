@@ -1,6 +1,9 @@
 ---
 layout: home
 announcements:
+  - title: "Local Information"
+    date: "February 7, 2025"
+    text: "Be sure to check out our [Local Information](https://sdss.github.io/meeting-2025/local-info/) guide for hotel recommendations near the bus pick-up points, as well as restaurant suggestions and more!"
   - title: "Registration Opens in January!"
     date: "January 24, 2025"
     text: "Registration for the 2025 SDSS-V Collaboration Meeting opens on January 31. Make sure to secure your spot by **April 30, 2025**."
