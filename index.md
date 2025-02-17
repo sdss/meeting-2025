@@ -1,6 +1,9 @@
 ---
 layout: home
 announcements:
+  - title: "the Initial Programme is now online!"
+    date: "February 17, 2025"
+    text: "We have added an early version of the [programme](https://sdss.github.io/meeting-2025/program/) for those who need it to plan their travel arrangements."
   - title: "Local Information"
     date: "February 7, 2025"
     text: "Be sure to check out our [Local Information](https://sdss.github.io/meeting-2025/local-info/) guide for hotel recommendations near the bus pick-up points, as well as restaurant suggestions and more!"
