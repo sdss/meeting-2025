@@ -200,10 +200,11 @@
     {%- endif -%}
 
   {% else %}
-    <!-- Display the placeholder message -->
+    <!-- Display the initial programme placeholder -->
     <div class="alert alert-info text-center" role="alert">
-      <h4 class="alert-heading">Coming Soon!</h4>
-      <p>The programme will be available soon. Please check back later.</p>
+      <img src="{{ '/assets/images/initial_programme.jpg' | relative_url }}" alt="Initial Programme" style="max-width: 100%; height: auto; margin-bottom: 1rem;">
+      <h4 class="alert-heading">Initial Programme</h4>
+      <p>This is an early version of the programme and is subject to change. Please check back later for the final version.</p>
     </div>
   {% endif %}
 
