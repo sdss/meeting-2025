@@ -3,10 +3,10 @@ layout: home
 announcements:
   - title: "Early Career Travel Fund Now Open to All SDSS-V Members!"
     date: "March 3, 2025"
-    text: |
+    text: "
     The Early Career Travel Fund (ECTF) is now open to all early career researchers in SDSS-V. This update follows a 2024 policy change led by Keith Hawkins and the Collaboration Council and approved by the AC/EC. We hope it helps early career researchers, particularly those attending the SDSS-V Collaboration Meeting in June.
-    
-    📌 Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSfHLuw40L1hWCDzwQv7xhzpIfWGjwAfx8-B3OL_iKPlYrAndg/viewform)
+    <br>    
+    📌 Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSfHLuw40L1hWCDzwQv7xhzpIfWGjwAfx8-B3OL_iKPlYrAndg/viewform)"
   - title: "The Initial Programme is now online!"
     date: "February 17, 2025"
     text: "We have added an early version of the [programme](https://sdss.github.io/meeting-2025/program/) for those who need it to plan their travel arrangements."
