@@ -11,6 +11,7 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
   **January 31, 2025**
 
 - **Registration Fee:**  €185
+  - Online participation: Free
 - **Registration deadline:** April 30, 2025
   *(Payment must also be completed by this date.)*
 
@@ -22,6 +23,8 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
   - Conference materials (name badge, program booklet, etc.)  
   - Conference dinner  
   - Optional shuttle service to and from the venue (MPIA/HdA)
+
+**Important Notice:** Spaces for in-person attendance and slots for talks and posters are limited. 
 
 ### Register Now
 
