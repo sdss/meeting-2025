@@ -217,7 +217,22 @@ h2 {
 }
 
 .table-responsive {
-margin-top: 2rem;
+  margin-top: 2rem;
+  max-width: 95vw;
+  margin: 0 auto;
+  
+  .table {
+    min-width: 800px; // Minimum width to prevent too much wrapping
+    
+    th, td {
+      &:first-child {
+        width: 30%; // Name column
+      }
+      &:last-child {
+        width: 70%; // Affiliation column
+      }
+    }
+  }
 }
 
 .table-striped tbody tr:nth-of-type(odd) {
