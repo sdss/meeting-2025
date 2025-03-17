@@ -3,7 +3,7 @@ layout: home
 announcements:
   - title: "Abstract Submission Now Closed"
     date: "March 17, 2025"
-    text: "Thank you for your incredible interest and the numerous submitted abstracts. Due to high demand, we are oversubscribed for in-person attendance and talks. Registration is temporarily closed, but online participation will reopen shortly and we will announce if additional spaces become available."
+    text: "Thank you for your incredible interest and the numerous submitted abstracts. Due to high demand, registration is temporarily closed, but online participation will reopen shortly and we will announce if additional spaces become available."
   - title: "Early Career Travel Fund Now Open to All SDSS-V Members!"
     date: "March 3, 2025"
     text: "
