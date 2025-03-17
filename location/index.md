@@ -58,8 +58,8 @@ The nearest international airports are:
 #### Bus Transportation
 
 1. **Conference Buses**  
-   Two conference buses will depart from central Heidelberg locations at fixed times:
-   - **Location 1**: [Heidelberg Hauptbahnhof (Main Station)](https://maps.app.goo.gl/q8gddF9v2XyjLajP9) — Departure at **8:10 AM**  
+   Two conference buses (company Discipulus) will depart from central Heidelberg locations at fixed times:
+   - **Location 1**: [Heidelberg Hauptbahnhof (Main Station)](https://maps.app.goo.gl/q8gddF9v2XyjLajP9) platform "R" ("Bahnsteig R") — Departure at **8:10 AM**  
    - **Location 2**: [Peterskirche](https://maps.app.goo.gl/RwZq7PytLbkFqs7N9) — Departure at **8:15 AM**
 
 2. **Public Bus No. 30**  
