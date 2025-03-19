@@ -1,6 +1,12 @@
 ---
 layout: home
 announcements:
+  - title: "Waiting list and remote participation registration are now open"
+    date: "March 19, 2025"
+    text: "Registration for the in-person attendance waiting list and remote participation is now open. Please note that your in-person registration is **not confirmed until the registration fee has been paid**, so please complete the registration as soon as possible to confirm your attendance. Remote participation remains free and available to everyone!
+    <br> 
+    📌 Please register for the waiting list or remote participation using [this link](https://cuboulder.qualtrics.com/jfe/form/SV_1RL1k76nQaznNsO)
+    "
   - title: "Abstract Submission Now Closed"
     date: "March 17, 2025"
     text: "Thank you for your incredible interest and the numerous submitted abstracts. Due to high demand, registration is temporarily closed, but online participation will reopen shortly and we will announce if additional spaces become available."
