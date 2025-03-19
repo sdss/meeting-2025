@@ -28,7 +28,9 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
 
 ### Register Now
 
-[Click here to register](https://cuboulder.qualtrics.com/jfe/form/SV_2aZFywfOZSikPvE)  
+**Update:** Due to the high demand, we have closed in-person participation. Registering for the waiting list and for remote participation is now available through the following link:
+
+[Click here to register (waiting list or remote)](https://cuboulder.qualtrics.com/jfe/form/SV_1RL1k76nQaznNsO)  
 
 **Help us plan the meeting!** We strongly encourage all participants to pay at the time of registration to simplify venue arrangements and ensure accurate numbers for catering and the conference dinner.
 
