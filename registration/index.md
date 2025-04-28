@@ -28,6 +28,10 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
 
 ### Register Now
 
+<div class="visa-warning">
+  <strong>Update:</strong> Payment for in-person attendance is now **close** from April 28.
+</div>
+
 **Update:** Due to the high demand, we have closed in-person participation. Registering for the waiting list and for remote participation is now available through the following link:
 
 [Click here to register (waiting list or remote)](https://cuboulder.qualtrics.com/jfe/form/SV_1RL1k76nQaznNsO)  
@@ -45,7 +49,7 @@ Once you register, you can pay through the link below. You will be redirected to
 - **Full Refund:** If canceled by April 30, 2025  
 - **No Refund:** From May 1, 2025  
 
-[Click here to pay now](https://ztix.de/hp/events/25675/info?lang=en) ([German version](https://ztix.de/hp/events/25675/info)) and make sure to fill out the registration form.
+<!-- [Click here to pay now](https://ztix.de/hp/events/25675/info?lang=en) ([German version](https://ztix.de/hp/events/25675/info)) and make sure to fill out the registration form. -->
 
 ---
 
