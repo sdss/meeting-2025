@@ -1,6 +1,9 @@
 ---
 layout: home
 announcements:
+  - title: "Registration Closed"
+    date: "April 28, 2025"
+    text: "We've reached our venue's capacity, so registration and payment options are now closed. If you were unable to complete payment, we’d be delighted to have you join us online. Thank you for the overwhelming response from the SDSS community, we’re excited to see everyone in Heidelberg in one month!"
   - title: "Waiting list and remote participation registration are now open"
     date: "March 19, 2025"
     text: "Registration for the in-person attendance waiting list and remote participation is now open. Please note that your in-person registration is **not confirmed until the registration fee has been paid**, so please complete the registration as soon as possible to confirm your attendance. Remote participation remains free and available to everyone!
