@@ -29,7 +29,7 @@ We are excited to welcome you to the **SDSS-V Collaboration Meeting 2025** in He
 ### Register Now
 
 <div class="visa-warning">
-  <strong>Update:</strong> Payment for in-person attendance is closed as of 28 April.
+  <strong>Update:</strong> Payment for in-person attendance is <strong>closed</strong> as of 28 April.
 </div>
 
 **Update:** Due to the high demand, we have closed in-person participation. Registering for the waiting list and for remote participation is now available through the following link:
