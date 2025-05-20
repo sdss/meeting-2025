@@ -9,7 +9,7 @@ Discover the best places to stay, eat, and explore in our beautiful city.
 
 ## 🏨 Hotels
 ### Close to the train station (Bahnstadt):
-- **[Ibis Heidelberg Hauptbahnhof]((https://all.accor.com/hotel/1447/index.en.shtml))**
+- **[Ibis Heidelberg Hauptbahnhof](https://all.accor.com/hotel/1447/index.en.shtml)**
 - **[Staycity Aparthotels](https://www.staycity.com/heidelberg/heidelberg)**
 - **[Premier Inn Heidelberg City Bahnstadt](https://www.premierinn.com/gb/en/home.html)**
 - **[Premier Inn Heidelberg City](https://www.premierinn.com/gb/en/home.html)**
@@ -28,9 +28,9 @@ Discover the best places to stay, eat, and explore in our beautiful city.
 
 ## 🍽️ Restaurants
 ### German Cuisine:
-- **[Essighaus](#)**: A traditional German restaurant known for its hearty meals and cozy atmosphere.
-- **[Palmbräu Gasse](#)**: Enjoy classic German dishes and a great selection of local beers.
-- **[Weißer Stein](#)**: A favorite spot for authentic German cuisine with a beautiful outdoor seating area.
+- **[Essighaus](https://essighaus.de)**: A traditional German restaurant known for its hearty meals and cosy atmosphere.
+- **[Palmbräu Gasse](https://palmbraeugasse.de)**: Enjoy classic German dishes and a great selection of local beers.
+- **[Weißer Stein](https://www.weisser-stein.de)**: A favourite spot for authentic German cuisine with a beautiful outdoor seating area.
 
 <!--
 - **[Restaurant A](#)**: Enjoy gourmet dining with a menu that changes seasonally.
