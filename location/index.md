@@ -60,7 +60,7 @@ The nearest international airports are:
 1. **Conference Buses**  
    Two conference buses (company Discipulus) will depart from central Heidelberg locations at fixed times:
    - **Location 1**: [Heidelberg Hauptbahnhof (Main Station)](https://maps.app.goo.gl/q8gddF9v2XyjLajP9) platform "R" ("Bahnsteig R") — Departure at **8:10 AM**  
-   - **Location 2**: [Klingenteichstraße 4](https://maps.app.goo.gl/RwZq7PytLbkFqs7N9) (next to restaurant Piccolo Mondo) — Departure at **8:15 AM**
+   - **Location 2**: [Klingenteichstraße 4](https://maps.app.goo.gl/SJqJCJV3TRdkGxMi6) (next to restaurant Piccolo Mondo) — Departure at **8:15 AM**
 
 2. **Public Bus No. 30**  
    For those traveling at different times, you can take **Bus No. 30** from **Peterskirche**. The bus runs every 30 minutes and goes directly to MPIA.
