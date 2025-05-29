@@ -1,6 +1,9 @@
 ---
 layout: home
 announcements:
+  - tile: "Updated summary and detailed programme is now online"
+    date: "May 29, 2025"
+    text: "You can now find all the details of the programme [here](https://sdss.github.io/meeting-2025/program/). Recordings of the talks will also be linked in the online programme."
   - title: "Registration Closed"
     date: "April 28, 2025"
     text: "We've reached our venue's capacity, so registration and payment options are now closed. If you were unable to complete payment, we’d be delighted to have you join us online. Thank you for the overwhelming response from the SDSS community, we’re excited to see everyone in Heidelberg in one month!"
