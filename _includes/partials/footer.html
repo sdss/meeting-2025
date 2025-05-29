@@ -63,14 +63,22 @@
       <!-- Right column: MPIA text & logo -->
       <div class="col-md-3 d-flex flex-column align-items-end">
         <p class="mb-2">
-          Hosted by the Max Planck Institute for Astronomy
+          Hosted by the Max Planck Institute for Astronomy<br> and House of Astronomy.
         </p>
-        <img
-          src="{{ '/assets/images/MPIA_Logo.png' | relative_url }}"
-          alt="{{ site.conference.footer.logo.name }}"
-          style="max-height: 100px; width: auto;"
-          class="img-fluid"
-        >
+        <div class="d-flex align-items-center">
+          <img
+            src="{{ '/assets/images/MPIA_Logo.png' | relative_url }}"
+            alt="{{ site.conference.footer.logo.name }}"
+            style="max-height: 100px; width: auto;"
+            class="img-fluid"
+          >
+          <img
+            src="{{ '/assets/images/HdA_logo_rounded.png' | relative_url }}"
+            alt="House of Astronomy logo"
+            style="max-height: 100px; width: auto; margin-left: 1rem;"
+            class="img-fluid"
+          >
+        </div>
       </div>
       
     </div>
