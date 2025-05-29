@@ -1,7 +1,7 @@
 ---
 layout: home
 announcements:
-  - tile: "Updated summary and detailed programme is now online"
+  - title: "Updated summary and detailed programme is now online"
     date: "May 29, 2025"
     text: "You can now find all the details of the programme [here](https://sdss.github.io/meeting-2025/program/). Recordings of the talks will also be linked in the online programme."
   - title: "Registration Closed"
