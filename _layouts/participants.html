@@ -9,9 +9,15 @@ layout: default
 {%- endif %}
 
 <div class="table-responsive">
-<table class="table table-striped">
-    <thead class="thead-dark">
+<table class="table custom-table">
+    <colgroup>
+        <col class="col-number"> <!-- Number column -->
+        <col> <!-- Name column -->
+        <col> <!-- Affiliation column -->
+    </colgroup>
+    <thead class="thead-custom">
     <tr>
+        <th scope="col">#</th>
         <th scope="col">Name</th>
         <th scope="col">Affiliation</th>
     </tr>
@@ -20,8 +26,37 @@ layout: default
     {% assign sorted_participants = site.data.participants | sort: "Last Name" %}
     {% for participant in sorted_participants %}
     <tr>
+        <td class="col-number">{{ forloop.index }}</td>
         <td>{{ participant["First Name"] }} {{ participant["Last Name"] }}</td>
         <td>{{ participant["Affiliation"] }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+
+<h2 class="display-5 mb-3 text-break">Remote Participants</h2>
+<div class="table-responsive">
+<table class="table custom-table-dark">
+    <colgroup>
+        <col class="col-number"> <!-- Number column -->
+        <col> <!-- Name column -->
+        <col> <!-- Affiliation column -->
+    </colgroup>
+    <thead class="thead-dark">
+    <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Affiliation</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% assign sorted_remote_participants = site.data.remote | sort: "last_name" %}
+    {% for participant in sorted_remote_participants %}
+    <tr>
+        <td class="col-number">{{ forloop.index }}</td>
+        <td>{{ participant["first_name"] }} {{ participant["last_name"] }}</td>
+        <td>{{ participant["Institution"] }}</td>
     </tr>
     {% endfor %}
     </tbody>

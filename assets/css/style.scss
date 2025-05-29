@@ -244,6 +244,32 @@ background-color: #343a40;
 color: #fff;
 }
 
+.thead-custom th {
+    // background-color: #c27b01; /* Dark orange for header */
+    background-color: #6e489d; 
+    color: white; 
+}
+.custom-table tbody tr:nth-child(odd) {
+    // background-color: #fdf7ef; /* Light orange for odd rows */
+    background-color: #e7dbf13a; 
+}
+.custom-table {
+    table-layout: fixed; /* Enforce fixed table layout */
+    width: 100%; /* Ensure the table spans the container */
+}
+.custom-table-dark tbody tr:nth-child(odd) {
+    // background-color: #fdf7ef; /* Light orange for odd rows */
+    background-color: #f9f9f9; 
+}
+.custom-table-dark {
+    table-layout: fixed; /* Enforce fixed table layout */
+    width: 100%; /* Ensure the table spans the container */
+}
+.col-number {
+    width: 10%; /* Explicitly set the width of the number column */
+    text-align: left; /* Center align the numbers */
+}
+
 .location-map {
 height: 500px;
 border: 1px solid #ccc;
