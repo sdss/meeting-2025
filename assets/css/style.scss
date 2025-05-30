@@ -63,8 +63,9 @@ margin-bottom: 0rem; // Space between list items
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  max-width: 90%; // Allows text to fit on smaller screens
-  white-space: nowrap; 
+  width: 90%; // force it to never exceed 90% of its parent
+  white-space: nowrap;
+  overflow-wrap: normal;
   color: #EEE8AA;
   text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
   text-align: center;
@@ -74,55 +75,45 @@ margin-bottom: 0rem; // Space between list items
   border-radius: 0.5rem;
 }
 
-// Target the heading inside the overlay for responsive font sizes
 .overlay-text h1 {
-  font-size: 3rem; // Default large size for desktops
+  /* default for large screens */
+  font-size: 3rem;
 }
 
+/* Large tablets and small desktops */
 @media (max-width: 992px) {
   .overlay-text h1 {
     font-size: 2.5rem;
   }
 }
 
+/* Portrait tablets and large phones */
 @media (max-width: 768px) {
   .overlay-text h1 {
     font-size: 2rem;
   }
 }
 
-@media (max-width: 576px) {
+/* Small phones */
+@media (max-width: 575px) {
   .overlay-text h1 {
-    font-size: 1.75rem;
+    font-size: 1.2rem;
   }
 }
 
 .overlay-text p.lead {
-  font-size: 1.25rem; // default size for larger screens
-  margin-top: 0.5rem; // optional: add some spacing if needed
+  font-size: 1.6rem;
   color: #EEE8AA;
 }
 
-// Reduce on smaller screens
+@media (max-width: 992px) {
+  .overlay-text p.lead { font-size: 1.125rem; }
+}
 @media (max-width: 768px) {
-  .overlay-text p.lead {
-    font-size: 1.125rem;
-  }
+  .overlay-text p.lead { font-size: 1rem; }
 }
-
-@media (max-width: 576px) {
-  .overlay-text p.lead {
-    font-size: 1.125rem;
-  }
-}
-
-@media (max-width: 320px) {
-  .overlay-text h1 {
-    font-size: 1.5rem; // Even smaller for extremely narrow widths
-  }
-  .overlay-text p.lead {
-    font-size: 0.875rem; // Reduce supporting text size
-  }
+@media (max-width: 575px) {
+  .overlay-text p.lead { font-size: 0.8rem; }
 }
 
 /* Optional: Style for the header */
@@ -353,4 +344,24 @@ color: #856404;  // Dark yellow/brown text
   height: 1em;
   // vertical-align: middle;
   vertical-align: -0.15em;
+}
+
+// —————————————
+// 1) Responsive header brand
+// —————————————
+.navbar-brand {
+  /* default desktop size */
+  font-size: 2rem;
+}
+
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
 }

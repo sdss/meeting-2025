@@ -1,0 +1,50 @@
+// Target the heading inside the overlay for responsive font sizes
+.overlay-text h1 {
+  font-size: 3rem; // Default large size for desktops
+}
+
+@media (max-width: 992px) {
+  .overlay-text h1 {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .overlay-text h1 {
+    font-size: 2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .overlay-text h1 {
+    font-size: 1.75rem;
+  }
+}
+
+.overlay-text p.lead {
+  font-size: 1.25rem; // default size for larger screens
+  margin-top: 0.5rem; // optional: add some spacing if needed
+  color: #EEE8AA;
+}
+
+// Reduce on smaller screens
+@media (max-width: 768px) {
+  .overlay-text p.lead {
+    font-size: 1.125rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .overlay-text p.lead {
+    font-size: 1.125rem;
+  }
+}
+
+@media (max-width: 320px) {
+  .overlay-text h1 {
+    font-size: 1.5rem; // Even smaller for extremely narrow widths
+  }
+  .overlay-text p.lead {
+    font-size: 0.875rem; // Reduce supporting text size
+  }
+}
