@@ -1,4 +1,7 @@
-{% include partials/header.html %}
+---
+layout: default
+---
+
   {% assign nbr_days = site.data.program.days | size -%}
 
   <h1 class="display-5 {% if nbr_days > 1 -%} mb-2 {%- else -%} mb-4 {%- endif %} text-break">
@@ -229,5 +232,3 @@
     ></iframe>
   </div>
   {% endif %}
-
-{% include partials/footer.html %}
