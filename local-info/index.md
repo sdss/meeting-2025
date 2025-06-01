@@ -82,8 +82,18 @@ Discover the best places to stay, eat, and explore in our beautiful city.
 ## 🎉 Special Events
 - Check again closer to the Meeting 😉
 
-<!--
-- **Heidelberg Spring Festival**: Celebrate the arrival of spring with local music, food, and festivities.
--->
+  <div class="mt-4 alert alert-info text-center" role="alert"
+        style="max-width: none;
+                width: 90%;
+                margin: 0 auto;
+                overflow-x: auto;
+                background-color: #f3f0ff; 
+                border: 1px solid #d6c1ff;
+                padding: 1rem;">
+    <h4 class="alert-heading">Wednesday afternoon activities</h4>
+    <iframe src="https://docs.google.com/document/d/e/2PACX-1vRp9PuXs6e54_y-cCGoBzv7_K7RQKiFn1SFzhzJuO2o5R2zVc9U_KBkH0hfLUY1MsIZbDhPMA7IPFBK/pub?embedded=true"
+      style="width: 100%; height: 800px; border: none;"
+    ></iframe>
+  </div>
 
 We hope you enjoy your stay in Heidelberg!
