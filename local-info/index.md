@@ -80,7 +80,6 @@ Discover the best places to stay, eat, and explore in our beautiful city.
 
 
 ## 🎉 Special Events
-- Check again closer to the Meeting 😉
 
   <div class="mt-4 alert alert-info text-center" role="alert"
         style="max-width: none;
