@@ -28,23 +28,40 @@ Discover the best places to stay, eat, and explore in our beautiful city.
 
 ## 🍽️ Restaurants
 ### German Cuisine:
-- **[Essighaus](https://essighaus.de)**: Nestled in Heidelberg’s Old Town in a charming half-timbered building, Essighaus delivers a warm, historic ambiance alongside a menu of regional specialties—from crispy schnitzel and bratwurst to seasonal meatloaf—crafted with locally sourced ingredients and complemented by an array of German beers. 
-- **[Palmbräu Gasse](https://palmbraeugasse.de)**: Located in the heart of the city’s Altstadt, this historic brewpub charms with exposed brick walls and rustic wooden beams. Enjoy hearty home-style dishes like succulent pork knuckle, hand-pan-fried filets, and classic Bavarian sides, all perfectly paired with the house-brewed Palmbräu lagers and wheat beers. 
-- **[Weißer Stein](https://www.weisser-stein.de)**: A family-friendly favorite, Weißer Stein offers a relaxed, welcoming interior and a sun-drenched terrace framed by lush greenery. The kitchen serves up refined takes on German staples—think pan-seared trout, venison goulash, and seasonal vegetable ragouts—alongside an award-winning wine list sourced from nearby Baden vineyards.
-- **[Schnitzelhaus](https://schnitzelhaus-alte-mnz.restaurants-world.com)**: Set on the banks of the Neckar, this laid-back eatery is a schnitzel lover’s paradise, boasting over 100 creative varieties—from classic pork and veal crumbed cuts to adventurous fillings like mozzarella with sun-dried tomato. Relax on the riverside terrace while savoring each perfectly fried, golden-brown slice.
-- **[Vetter’s Alt Heidelberger Brauhaus](https://www.brauhaus-vetter.de/en)**: Tucked into a 16th-century corner of the Old Town, this beloved brewpub produces its own line of craft beers on-site and pairs them with Bavarian classics—think grilled Weißwurst, soft pretzels, and hearty pork knuckles—in a lively, student-friendly atmosphere.  
-- **[Kulturbrauerei Heidelberg](https://www.heidelberger-kulturbrauerei.de/)**: A unique mix of hotel, brewery, pub, and beer garden run by the Merz family for over 20 years. Pull up a bench at rustic wooden tables under shady chestnut trees, and enjoy generously portioned schnitzel, bratwurst, and freshly tapped lagers at wallet-friendly prices.
+- **[Essighaus](https://essighaus.de)**: Traditional Old Town setting serving classic schnitzel, bratwurst, and meatloaf with local beers.
+- **[Palmbräu Gasse](https://palmbraeugasse.de)**: Historic brewpub near the Altstadt offering hearty pork knuckle, pan-fried fillets, and house-brewed lagers.
+- **[Weißer Stein](https://www.weisser-stein.de)**: Family-friendly spot with a sunny terrace, known for trout, venison goulash, and regional wines.
+- **[Schnitzelhaus](https://schnitzelhaus-alte-mnz.restaurants-world.com)**: Riverside eatery featuring over 100 creative schnitzel varieties and a relaxed terrace view.
+- **[Vetter’s Alt Heidelberger Brauhaus](https://www.brauhaus-vetter.de/en)**: Casual brewpub in a 16th-century building, famous for on-site craft beers and Bavarian favorites like Weißwurst and pretzels.
+- **[Kulturbrauerei Heidelberg](https://www.heidelberger-kulturbrauerei.de/)**: Rustic beer garden under chestnut trees, serving generous schnitzel and bratwurst portions with budget-friendly lagers.
+- **[Berggasthof Königstuhl](https://maps.app.goo.gl/56pKiiKZFDpdjQjU9)**: And the only restaurant within easy walking distance of MPIA; they can handle crowds.
 
 ### International:
-- **[Sahara](https://www.sahara-heidelberg.de)**: Tucked along Hauptstraße, Sahara brings authentic Lebanese flavors to Heidelberg with generous mezze spreads—hummus, smoky baba ganoush, and freshly baked manakish—alongside a selection of vegan cassoulets and hearty lamb dishes. A handful of outdoor tables let you soak up the street’s vibrant energy.  
-- **[Mahmouds](https://mahmouds.de/en/home-en/)**: With two welcoming locations in Altstadt and Bergheim, Mahmoud’s has earned a reputation for the city’s best falafel and creamy babaganoush, served piping hot in warm pita pockets. Patrons rave about the complimentary mint tea, friendly service, and plentiful vegan and vegetarian platters.
-- **[Kilimanjaro](https://kilimanjaro-heidelberg.com)**: This cozy spot between Hauptstrasse and the Neckar specializes in Eritrean sharing platters (“probierteller”), featuring richly spiced stews and crisp salads piled atop injera flatbread—perfect for scooping and communal dining. Wash it down with one of their carefully curated African beers for an immersive experience.
-- **[Soban](https://soban-heidelberg.com)**: Just steps from the Kornmarkt Bergbahn and another location on Hauptstraße, Soban showcases authentic Korean fare—from bubbling hot stone bibimbap to golden kimchi jeon—served in generous portions and accompanied by a colorful array of banchan (side dishes) in a sleek, modern setting. 
-- **[Cocodec](https://cocodec-heidelberg.com)**: Set near the Alte Brücke in a bright, contemporary space, Cocodec has quickly become Heidelberg’s go-to for Korean Chimaek (fried chicken and beer). Their signature double-fried chicken wings come tossed in sweet, spicy, or savory glazes, paired with house-made mandu dumplings and traditional pickled radish—best enjoyed on the sunny terrace overlooking the Neckar.
-- **[Bodega Don Jamón](https://www.bodega-heidelberg.de/)**: Since 1993, this cosy Alt-Rohrbach eatery has brought a slice of Spain to Heidelberg. Feast on tapas like gambas al ajillo, paella, and jamón ibérico in their sunlit courtyard garden—perfect for groups looking to share big plates without breaking the bank.
-- **[Doctor Flotte](https://www.tripadvisor.com/Restaurant_Review-g187286-d23737581-Reviews-Doctor_Flotte-Heidelberg_Baden_Wurttemberg.html)**: This relaxed pub brings a Mexican twist to classic American comfort food, with standout dishes like cheesy loaded nachos, crispy tacos, smoky barbecue ribs, and a range of vegetarian options—all served in a welcoming, pub-style atmosphere.
-- **[Sushi Bar SameSame Weststadt](http://www.sushiheidelberg.de/)**: A must-visit for sushi lovers, SameSame offers impeccably fresh sashimi and artisan rolls in a cozy, contemporary setting. Guests rave about the melt-in-your-mouth salmon and tuna, the vibrant veggie options, and the friendly service—ideal for both date nights and group outings.
-- **[Keisari Heidelberg](https://www.keisari.de/heidelberg)**: This upscale sushi spot is renowned for its meticulous presentation and inventive menu, featuring specialties like dry-ice-smoked surf-and-turf rolls, coconut-topped maki, and a curated selection of premium nigiri—all served in a sleek, candlelit dining room.
+- **[Sahara](https://www.sahara-heidelberg.de)**: [Lebanese] Generous mezze spreads (hummus, baba ganoush, manakish) and vegan-friendly mains on Hauptstraße with a few outdoor tables.
+- **[Mahmouds](https://mahmouds.de/en/home-en/)**: [Falafel/Middle Eastern] Crispy falafel, creamy babaganoush, and warm pita pockets at two convenient locations in Altstadt and Bergheim.
+- **[Kilimanjaro](https://kilimanjaro-heidelberg.com)**: [Eritrean] Communal “probierteller” sharing platters of spiced stews and salads served over injera, paired with African beers.
+- **[Soban](https://soban-heidelberg.com)**: [Korean] Authentic bibimbap, kimchi jeon, and colorful banchan served in generous portions in a sleek, modern setting near Kornmarkt.
+- **[Cocodec](https://cocodec-heidelberg.com)**: [Korean Fried Chicken] Double-fried wings tossed in sweet, spicy, or savory glazes, plus mandu dumplings and pickled radish on a sunny riverside terrace.
+- **[Bodega Don Jamón](https://www.bodega-heidelberg.de/)**: [Spanish/Tapas] Classic tapas (gambas al ajillo, paella, jamón ibérico) in a cozy courtyard, perfect for group sharing on a budget.
+- **[Doctor Flotte](https://www.tripadvisor.com/Restaurant_Review-g187286-d23737581-Reviews-Doctor_Flotte-Heidelberg_Baden_Wurttemberg.html)**: [Mexican-American] Pub-style setting with loaded nachos, crunchy tacos, and smoky barbecue ribs, plus vegetarian options.
+- **[Sushi Bar SameSame Weststadt](http://www.sushiheidelberg.de/)**: [Japanese/Sushi] Fresh sashimi and creative rolls in a cozy space, beloved for melt-in-your-mouth salmon and tuna.
+- **[Keisari Heidelberg](https://www.keisari.de/heidelberg)**: [Japanese/Sushi] Upscale sushi experience with inventive rolls (dry-ice-smoked surf-and-turf, coconut maki) and premium nigiri in a candlelit dining room.
+
+## ![:coffee:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/2615.png) Cafes
+
+- **[Sternweiler](https://maps.app.goo.gl/UpAsfvgsGDq8YFMj6)**: Good coffee, mostly vegan food, small-table seating.
+- **[Coffee Nerd](https://maps.app.goo.gl/ZzVtsZpsjaiVpNgz9)**: Very good coffee, limited seating. Also [here](https://maps.app.goo.gl/vczveFP8KjuVWdYb9).
+- **[Mildred](https://g.co/kgs/sU9Px9s)**: Coffee good; good food selection.
+- **[Bergheim 41](https://maps.app.goo.gl/bqa3PzAsNUX9LBNPA)**: Cafe & Breakfast (opens at 7:00AM)
+- **[Kaffeezimmer](https://g.co/kgs/s1Y957Q)**: Good food & coffee.
+
+## 🍹 Bars
+
+- **[Milonga Tapas & Bar](https://maps.app.goo.gl/6QtmP6wTYhcsfwyi6)**: Tapas, wine and more.
+- **[Heerlijk 25](https://maps.app.goo.gl/eRjKxkXY8mbVJk649)**: Local brew.
+- **[Friedrich Cafe & Bar](https://maps.app.goo.gl/6FBqp31wHQDvcc5H7)**: Baked focaccia, gourmet sandwiches, and expertly crafted cocktails.
+- **[Jill Rooftop Drinks & Dine](https://maps.app.goo.gl/xQg5x5BqhaDm9Ss49)**: Nice rooftop views.
+- **[Bairro](https://maps.app.goo.gl/DnxGprAhVzFcbSy68)**: Cafe & Bar: morning & evenings (also Mondays).
 
 <!--
 - **[Restaurant A](#)**: Enjoy gourmet dining with a menu that changes seasonally.
